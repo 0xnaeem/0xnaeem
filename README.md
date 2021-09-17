@@ -3,10 +3,15 @@ Hi 👋, I'm Naeem Ahmed Sayed.I am an ethical hacker and web app penetration te
 I have knowledge about Owasp Top 10 and some other vulnerabilities. I always try to keep myself up to date in this field. Besides all of this, I am working full time in my job and i spend my free time in bug bounty.  
 <img width="450" align="central" src="https://github.com/Ruhul12/Ruhul12/blob/main/gif/gif_code.gif">  
 - 👨‍💻 I’m a Security Researcher / Bug Hunter 
+
 - 📫 How to reach me **https://www.facebook.com/Naeem.Islam.Sayed/** 
+
 - 😄 Pronouns He/Him 
+
 - 💬 Ask me about Bug Hunting I will try to help you 
+
 - ⚡ Fun fact **Loading........** 
+
 - ⚡ Work ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
 
 - ![](https://visitor-badge.laobi.icu/badge?page_id=0xnaeem.0xnaeem) 
