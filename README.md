@@ -7,9 +7,9 @@ I have knowledge about Owasp Top 10 and some other vulnerabilities. I always try
 - 😄 Pronouns He/Him 
 - 💬 Ask me about Bug Hunting I will try to help you 
 - ⚡ Fun fact **Loading........** 
-- ⚡ Work ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁 
-- !
-- [](https://visitor-badge.laobi.icu/badge?page_id=0xnaeem.0xnaeem) 
+- ⚡ Work ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
+
+- ![](https://visitor-badge.laobi.icu/badge?page_id=0xnaeem.0xnaeem) 
 - [![Github](https://img.shields.io/github/followers/0xnaeem?label=Followers&logo=Github)](https://github.com/0xnaeem)  
 
 
